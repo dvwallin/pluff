@@ -23,3 +23,8 @@ For example:
 /home/david/Documents
 /home/david/my_todo.txt
 ```
+
+## Install
+* `cd $GOPATH`
+* `go get github.com/dvwallin/pluff`
+* `go install github.com/dvwallin/pluff`
